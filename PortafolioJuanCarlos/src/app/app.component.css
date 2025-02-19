@@ -1,0 +1,17 @@
+/* Estilo para la imagen de perfil */
+img.rounded-circle {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  /* Fondo de la sección de bienvenida */
+  .jumbotron {
+    background-color: rgba(0, 0, 0, 0.5); /* Oscurecer ligeramente el fondo */
+  }
+  
+  /* Estilo para la sección de Contacto */
+  .bg-light {
+    background-color: #f8f9fa !important; /* Cambiar el fondo a un color más claro */
+  }
+  
